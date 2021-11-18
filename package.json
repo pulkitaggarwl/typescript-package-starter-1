@@ -19,7 +19,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pulkitaggarwl/typescript-package-starter.git"
+    "url": "git+https://github.com/pulkitaggarwl/typescript-package-starter-1.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.22",
